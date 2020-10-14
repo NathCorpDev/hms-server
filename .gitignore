@@ -1,2 +1,3 @@
 node_modules
 send_sms.js
+config/default.json
